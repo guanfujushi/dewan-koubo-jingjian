@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/dewan-koubo-jingjian)
+
 **English**: Talking-head video fine-cut workflow for solo-speaker footage (interviews, lectures, podcasts) — sentence-level editing decisions across clean / creator / viral pacing presets, structured edit lists, and a one-command silence remover. Runs fully locally.
 
 ---
